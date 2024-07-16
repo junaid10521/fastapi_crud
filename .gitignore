@@ -1,0 +1,40 @@
+# Python specific
+*.pyc
+__pycache__/
+env/
+.vscode/
+
+# Dependency directories
+/venv/
+/env/
+/lib/
+/include/
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+
+# Compiled files
+*.log
+*.pot
+*.pyc
+*.swp
+*~
+/logs
+/tmp
+
+# MongoDB Atlas URI file
+mongodb_uri.txt
+
+# macOS specific
+.DS_Store
+
+# Ignore the local development settings file
+.vscode/settings.json
+
+# Ignore pipenv files
+Pipfile
+Pipfile.lock
+
