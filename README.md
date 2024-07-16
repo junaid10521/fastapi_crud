@@ -16,4 +16,4 @@ Before running this application, ensure you have the following installed:
 
    ```bash
    git clone <repository-url>
-   cd fastapi-mongodb-project
+   cd fastapi_crud
