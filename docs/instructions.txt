@@ -1,0 +1,19 @@
+# FastAPI MongoDB Project Setup Instructions
+
+This document provides step-by-step instructions on how to set up and run the FastAPI project connected to MongoDB Atlas locally.
+
+## Prerequisites
+
+Before proceeding, ensure you have the following installed on your machine:
+
+- Python 3.7+
+- pip (Python package installer)
+- MongoDB Atlas account with a cluster set up
+
+
+
+- python3 -m venv env
+- source env/bin/activate
+- deactivate
+- pip install -r requirements.txt
+- python3 -m main
