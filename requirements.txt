@@ -1,4 +1,6 @@
 fastapi
-uvicorn
-pymongo
+uvicorn[standard]
 python-dotenv
+pydantic
+pymongo
+certifi
